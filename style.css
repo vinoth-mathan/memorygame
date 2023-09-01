@@ -49,9 +49,10 @@ h3{
     font-size:3em;
     display:flex;
     justify-content:center;
-    height:500px;
+    /* height:500px; */
     align-items: center;
     color:blue;
-    width:500px;
-    margin:0px auto;
+    /* width:500px; */
+    
+    /* margin:0px auto; */
 }
